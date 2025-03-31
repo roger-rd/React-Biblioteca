@@ -1,6 +1,6 @@
 import { zodResolver } from "@hookform/resolvers/zod";
 import {  SubmitHandler, useForm } from "react-hook-form";
-import InputForm from "./CostumInput";
+import InputForm from "../inputForm/CostumInput";
 import { FormValues, schema } from "../models/form.model"
 
 
