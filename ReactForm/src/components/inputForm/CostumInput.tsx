@@ -1,5 +1,5 @@
 import { Control, Controller, FieldError } from "react-hook-form";
-import { FormValues } from "./models/form.model"
+import { FormValues } from "../models/form.model"
 import "./CostumInput.css"
 
 interface Props {
